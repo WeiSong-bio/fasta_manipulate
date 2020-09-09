@@ -7,7 +7,7 @@ setuptools.setup(
     name="fasta_manipulate",
     version="2.0.0",
     author="Wilson",
-	author_email="15527825168@163.com",
+	author_email="3120195705@bit.edu.cn",
 	url="https://github.com/WeiSong-bio/fasta_manipulate",
     description="fasta-manipulate is used to merge multiple line sequences in fasta files into one line sequence and count the number of different length sequences in the fasta file.",
     long_description=long_description,
